@@ -1,1 +1,1 @@
-"# Spring Gloud Gateway and Eureka Registry Implementation" 
+"# Spring Cloud Gateway and Eureka Registry Implementation" 
